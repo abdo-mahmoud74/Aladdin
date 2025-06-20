@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+i{
+    color: #f48222 !important;
+}
+.collapse a{
+    color:#fff;
+    font-size: 25px;
+   
+}
+
+.collapse a:hover{
+    color: #f48222;
+}
+.home h3::before{
+    content: "|";
+    animation: aladdin;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes aladdin {
+    0%{content: "|";}
+    10%{content: "AL|";}
+    20%{content: "ALA|";}
+    30%{content: "ALADD|";}
+    40%{content: "ALADDI|";}
+    50%{content: "ALADDIN|";}
+    60%{content: "ALADDI|";}
+    70%{content: "ALADD|";}
+    80%{content: "ALA|";}
+    90%{content: "AL|";}
+    100%{content: "|";}
+
+}

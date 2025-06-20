@@ -1,0 +1,152 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Single Crispy",
+        "description": "قطعة دجاج مقرمشه 130جرام,اختيارك من الصوص اختيارك من الأضافات",
+        "price": 130,
+        "image": "/imgs/crespy_s.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Single Beef",
+        "description": "برجر لحم 120جرام اختيارك من الصوص اختيارك من الأضافات.",
+        "price": 135,
+        "image": "/imgs/beefSingel.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Single Chicken",
+        "description": "برجر دجاج الادن سنجل اختيارك من الصوص اختيارك من الأضافات.",
+        "price": 120,
+        "image": "/imgs/chiken.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Double Crispy",
+        "description": "دجاج كرسبى دبل اختيارك من الصوص اختيارك من الأضافات",
+        "price": 200,
+        "image": "/imgs/crespyDoubel.jpeg"
+      },
+      {
+        "id": 5,
+        "name": "Double Beef",
+        "description": "برجر لحم 240جرام اختيارك من الصوص اختيارك من الأضافات",
+        "price": 210,
+        "image": "/imgs/beefDouble.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Double Chicken",
+        "description": "دجاج الادن دبل اختيارك من الصوص اختيارك من الأضافات",
+        "price": 185,
+        "image": "/imgs/chikenDouble.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Beef Bites",
+        "description": "سندوتش بيف بايتس صغير",
+        "price": 70,
+        "image": "/imgs/بيف بايتس.jpeg"
+      },
+      {
+        "id": 8,
+        "name": "Crispy Bites",
+        "description": "سندوتش كرسبى بايتس صغير",
+        "price": 65,
+        "image": "/imgs/كرسبى بايتس.jpeg"
+      },
+      {
+        "id": 9,
+        "name": "Gril Bites",
+        "description": "سندوتش جريل بايتس صغير",
+        "price": 65,
+        "image": "/imgs/جريل بايتس.jpeg"
+      },
+      {
+        "id": 10,
+        "name": "Wrap Crispy",
+        "description": "رول كرسبى والخضروات والصوص تقدم فى عيش تورتيلا",
+        "price": 85,
+        "image": "/imgs/rapCrispy.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Wrap Strips",
+        "description": "قطع من الدجاج والخضروات والصوص تقدم فى عيش تورتيلا",
+        "price": 90,
+        "image": "/imgs/rapStreps.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Arabic Beef",
+        "description": "برجر لحم والخضروات والصوص تقدم فى عيش التورتيلا",
+        "price": 110,
+        "image": "/imgs/beefArabic.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Compo Single ",
+        "description": "سندوتش سنجل من اختيارك + بطاطس + مشروب من اختيارك",
+        "price": 160,
+        "image": "/imgs/compoSingle.jpeg"
+      },
+      {
+        "id": 14,
+        "name": "Compo Double",
+        "description": "سندوتش دبل من اختيارك + بطاطس + مشروب من اختيارك",
+        "price": 240,
+        "image": "/imgs/compCrispyDoublejpeg.jpeg"
+      },
+      {
+        "id": 15,
+        "name": "Compo Bites",
+        "description": "سندوتش بايتس من اختيارك + بطاطس + مشروب من اختيارك",
+        "price": 100,
+        "image": "/imgs/compoBites.jpeg"
+      },
+      {
+        "id": 16,
+        "name": "Compo Wrap",
+        "description": "سندوتش راب من اختيارك + بطاطس + مشروب من اختيارك",
+        "price": 135,
+        "image": "/imgs/compoWrap.jpeg"
+      },
+      {
+        "id": 17,
+        "name": "Chicken Strips Meal (6 Pieces)",
+        "description": "يقدم مع البطاطس ، سلطة كول سلو، علبة صوص، 2 خبز",
+        "price": 260,
+        "image": "/imgs/wagba6.jpeg"
+      },
+      {
+        "id": 18,
+        "name": "Little Aladdin Meal",
+        "description": "برجر دجاج ،بطاطس ، كاتشب، عصير، لعبة",
+        "price": 105,
+        "image": "/imgs/Wagbalitel.jpeg"
+      },
+      {
+        "id": 19,
+        "name": "Chicken Strips Meal (3 Pieces)",
+        "description": "قدم مع البطاطس ، سلطة كولسلو، علبة صوص ، 1 خبز",
+        "price": 140,
+        "image": "/imgs/Wagba3.jpeg"
+      },
+      {
+        "id": 20,
+        "name": "Cheddar Sauce",
+        "description": "صوص جبنه الشيدر ",
+        "price": 15,
+        "image": "/imgs/chadder sause.jpeg"
+      },
+      {
+        "id": 21,
+        "name": "Small Water",
+        "description": "زجاجة مياه صغيرة",
+        "price": 10,
+        "image": "/imgs/water.jpeg"
+      }
+    ]
+  }
+  

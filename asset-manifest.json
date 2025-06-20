@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ada75dd0.css",
+    "main.js": "/static/js/main.6a0a27ea.js",
+    "static/media/_IMG_7370.jpeg": "/static/media/17148720776636df0d4eded_IMG_7370.ea9608024568270fcc6d.jpeg",
+    "static/media/aladdin.jpg": "/static/media/aladdin.ee4c5702db402b2c3a16.jpg",
+    "index.html": "/index.html",
+    "main.ada75dd0.css.map": "/static/css/main.ada75dd0.css.map",
+    "main.6a0a27ea.js.map": "/static/js/main.6a0a27ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ada75dd0.css",
+    "static/js/main.6a0a27ea.js"
+  ]
+}
